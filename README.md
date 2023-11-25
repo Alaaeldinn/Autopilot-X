@@ -43,6 +43,3 @@ This project implements a self-driving car using the Carla simulator. Carla is a
 
 Adjust parameters in the configuration file (`config.yaml`) to fine-tune the system based on your requirements.
 
-## License
-
-This project is licensed under the XYZ License - see the [LICENSE](LICENSE) file for details.
